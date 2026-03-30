@@ -1,0 +1,173 @@
+*/*{
+    border:1px solid red;
+}*/
+
+body{
+    background-color: rgb(248,173,173);
+    margin:0px; /*margin-top:0px;*/
+}
+a{
+    color:rgb(255,218,158);
+}
+
+
+
+#bio{
+    background-color: rgb(248,173,173);
+    height: fit-content; margin-top:80px;
+}
+.bioTitle{
+    color:white;
+    font-size:56px;
+    font-family:'Chonburi', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    position:relative;left:73px; top:50px;
+}
+.selfie{
+    object-fit: cover;
+    height:387px; width:387px;
+   
+    border: solid;
+    border-color: white; 
+    border-radius: 87px; 
+    border-width: 10px;
+   
+    margin-left:42px;
+    margin-top:20px;
+
+    float:left;
+}
+.bioText{
+    color: white;
+    font-size: 20px;
+    font-family:monospace;
+
+    position:relative;
+    left:73px; top:42px;
+    height:253px; max-width:1200px; padding-bottom: 92px;
+}
+
+#yesBut{
+    background-color: white;
+}
+.yesButTitle{
+    font-size:50px;
+    text-align:center;
+    color:rgb(60, 148, 66);
+    
+}
+.line{
+    margin-top:-20px;
+    margin-left: 30%;width:40%;height:5px; border-radius: 87px; background-color:rgb(60, 148, 66);
+}
+.blaBla1{
+    object-fit: cover;
+    width:318px;height:318px;
+    ; margin-top:40px;
+    float:left;
+    position:relative; margin-left:169px;
+    border:solid;
+    border-radius: 34px;
+    border-color:rgb(248,173,173);
+    border-width: 10px;
+}
+.blaBla2{
+    object-fit: cover;
+    width:318px;height:318px;
+    margin-left:20%; margin-top:40px;
+    border:solid;
+    border-radius: 34px;
+    border-color:rgb(248,173,173);
+    border-width: 10px;
+}
+.blaBla3{
+    object-fit: cover;
+    width:318px;height:318px;
+    float:right;
+    position:relative;;margin-right:169px; margin-top:40px;
+    border:solid;
+    border-radius: 34px;
+    border-color:rgb(248,173,173);
+    border-width: 10px;
+}
+.yuck1{
+    font-family: monospace; font-size:24px; color:rgb(248,173,173);
+    float:left;
+    margin-left:280px; position:relative;
+}
+.yuck2{
+    font-family: monospace; font-size:24px; color:rgb(248,173,173);
+    margin-left:43%;
+}
+.yuck3{
+    font-family: monospace; font-size:24px; color:rgb(248,173,173); float:right;
+    margin-right:280px; position:relative;top:-62px;
+}
+
+#ayup{
+    height: 400px;;
+    background-color: rgb(60, 148, 66);
+    
+}
+#yuup{
+    height:300px; width:80%;background-color:white; position:relative;top:50px; left:10%;right:10%;
+    border-radius:87px;
+}
+.yupTitle{
+    font-size:50px;
+    text-align:center;
+    color:rgb(60, 148, 66);
+    margin-top:-20px;
+}
+.yupText{
+    font-family: monospace; font-size: 24px; color:rgb(60, 148, 66); margin:40px; margin-top:-35px;
+}
+
+#rank{
+    height:fit-content;
+    margin-top:20px;
+    background-color: rgb(248,173,173);
+    color:white;
+}
+.box{
+    object-fit: cover;
+    width:355px; height:485px;
+    border-radius: 35px; border:solid white 10px; 
+    margin-left:186px;
+    margin-top:50px;
+}
+#blurb{
+    margin-top:-510px;
+    margin-left: 700px;;
+    width:40%;height:530px; border:solid white 10px; border-radius:35px;
+    font-family: monospace;
+    font-size:xx-large; padding: 20px;;
+    
+}
+#which{
+    
+    width:60%; height:fit-content;
+    border: solid white 10px; border-radius:35px; position:relative;left: 20%;
+    font-family: monospace; font-size: 32px; padding:20px;
+    h2{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 58px;
+        
+    }
+}
+
+#footer {
+    background-color: rgb(60, 148, 66);
+    color: white;
+    font-family:monospace;
+}
+
+#topBar{
+    position:fixed; top:0;
+    background-color: rgb(60, 148, 66);
+    height:80px; width:100000px;
+}
+.pageTitle{
+    color:white; 
+    font-size: 30px; 
+    font-family:'Chonburi', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+    margin-left:40px;
+}
